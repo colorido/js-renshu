@@ -1,1 +1,1 @@
-javascriptの練習をするために作りました
+javascriptの練習をします
